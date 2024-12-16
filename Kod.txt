@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wildberries OPEN BACK</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+            font-size: 24px;
+        }
+        p {
+            color: #555;
+            font-size: 16px;
+        }
+        a {
+            text-decoration: none;
+            color: white;
+            background-color: #a428d3;
+            padding: 15px 30px;
+            border-radius: 5px;
+            font-size: 18px;
+            display: inline-block;
+            margin-top: 20px;
+            transition: background-color 0.3s ease;
+        }
+        a:hover {
+            background-color: #881bb5;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 20px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Магазин OPEN BACK на Wildberries</h1>
+    <p>Нажмите кнопку ниже, чтобы перейти на страницу с нашими товарами:</p>
+    <a href="https://www.wildberries.ru/catalog/0/search.aspx?search=OPEN%20BACK" target="_blank">Перейти на Wildberries</a>
+    <img src="https://via.placeholder.com/600x300?text=Ваше+Изображение+Товара" alt="Товары OPEN BACK">
+</body>
+</html>
